@@ -1,1 +1,1 @@
-web: voila --port=8866 --no-browser comvi.ipynb
+web: voila --port=$PORT --no-browser comvi.ipynb
